@@ -1,0 +1,22 @@
+{
+  "name": "bookist",
+  "version": "1.0.0",
+  "description": "bookist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Claudiu-Petre/bookist.git"
+  },
+  "author": "claudiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Claudiu-Petre/bookist/issues"
+  },
+  "homepage": "https://github.com/Claudiu-Petre/bookist#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
